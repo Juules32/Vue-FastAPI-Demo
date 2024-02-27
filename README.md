@@ -5,7 +5,7 @@ Start new terminal and go to `backend`:
 
 Start new terminal and go to `frontend`:
 - `npm i`
-- `npm run serve`
+- `npm run dev`
 
 Go to [localhost:8080](http://localhost:8080). Clicking the button sends a request to the backend and should return an appropriate response.
 
